@@ -31,7 +31,7 @@ Step 3: If your subgroup is working within a team, also request team access
 
 — Main technologies used: R
 
-## **Resilience to cliamte shocks**
+## **Resilience to climate shocks**
 
 — Repository link (coming)
 
