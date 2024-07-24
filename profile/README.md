@@ -20,7 +20,7 @@ Step 1: Create a GitHub personal account (https://github.com/)
 
 Step 2: Request access to the working group organization (email: dudney@ucsb.edu or any PI)
 
-Step 3: If your subgroup is working within a team, also request team access so you have access to the right repositories
+Step 3: If your subgroup is working within a team, also request team access so you can clone the right repositories
 
 Step 4: Clone the repositories associated with your team(s).
 
