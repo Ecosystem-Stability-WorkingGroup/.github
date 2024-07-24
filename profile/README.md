@@ -2,7 +2,6 @@
 
 This README will help you get started.
 
-![Logo](https://github.com/user-attachments/assets/8416cefb-d40d-4e84-9888-5d9e710bfadb)
 
 
 # **About Us**
