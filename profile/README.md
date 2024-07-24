@@ -10,7 +10,8 @@ We are an interdisciplinary group of scientists, students, and postdocs focused 
 
 The Ecosystem Stability Working Group is an oganization on GitHub managed by the PIs of the working group. The organization includes different teams that are working on subprojects. 
 
-<img width="726" alt="image" src="https://github.com/user-attachments/assets/244e9bf1-12d4-48fc-b9ef-7fe5f6566d8b">
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/9823f722-7b08-4d70-bcb0-4cc9fa56e3e2">
+
 
 
 # **How to Collaborate**
