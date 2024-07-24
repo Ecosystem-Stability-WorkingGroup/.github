@@ -25,17 +25,19 @@ Step 3: If your subgroup is working within a team, also request team access so y
 Step 4: Clone the repositories associated with your team(s).
 
 
-# **Five Best Practices for Collaborative Coding**
+# **Six Best Practices for Collaborative Coding**
 
 1. Avoid coding within the same script at the same time to reduce the # of conflicts
    
 2. Always pull before you push to avoid conflicts
 
 3. Keep code up to date on the main branch (push and pull often so others can see progress)
-   
-4. If a conflict emerges, work with your team to resolve the conflict to avoid losing important code
 
-5. Be patient with yourself and others — collaborative coding is challenging but worth it!
+4. More is better when it comes to documenting your code!
+   
+5. If a conflict emerges, work with your team to resolve the conflict to avoid losing important code
+
+6. Be patient with yourself and others — collaborative coding is challenging but worth it!
 
 
 
