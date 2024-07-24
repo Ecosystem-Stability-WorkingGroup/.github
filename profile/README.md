@@ -9,15 +9,15 @@ This README will help you get started.
 We are an interdisciplinary group of scientists, students, and postdocs focused on understanding the impacts of climate change on ecosystem stability. Below you will find a summary of current projects and their associated repositories.
 
 
-## **Teams**
+# **Teams**
 
 
-## *Cross-system patterns of mortality*
+## **Cross-system patterns of mortality**
 — Repository link (coming)
 
 — Main technologies used: R
 
-## *Resilience to cliamte shocks*
+## **Resilience to cliamte shocks**
 
 — Repository link (coming)
 
