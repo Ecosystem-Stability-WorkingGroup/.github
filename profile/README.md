@@ -8,7 +8,7 @@ This README will help you get started.
 
 We are an interdisciplinary group of scientists, students, and postdocs focused on understanding the impacts of climate change on ecosystem stability. Below you will find a summary of current projects and their associated repositories.
 
-The Ecosystem Stability Working Group is an oganization on GitHub managed by the PIs of the working group. The organization includes different teams that are working on subprojects. 
+The Ecosystem Stability Working Group is an oganization on GitHub managed by Lauren Toth, Joan Dudney, Nathan Lemoine, Deron Berkepile, and Robby Filder. The organization includes different teams that are working on subprojects of the working group. 
 
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/9823f722-7b08-4d70-bcb0-4cc9fa56e3e2">
 
