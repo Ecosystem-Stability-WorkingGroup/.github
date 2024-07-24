@@ -20,7 +20,23 @@ Step 1: Create a GitHub personal account (https://github.com/)
 
 Step 2: Request access to the working group organization (email: dudney@ucsb.edu or any PI)
 
-Step 3: If your subgroup is working within a team, also request team access
+Step 3: If your subgroup is working within a team, also request team access so you have access to the right repositories
+
+Step 4: Clone the repositories associated with your team(s).
+
+
+# **Five Best Practices for Collaborative Coding**
+
+1. Avoid coding within the same script at the same time to reduce the # of conflicts
+   
+2. Always pull before you push to avoid conflicts
+
+3. Keep code up to date on the main branch (push and pull often so others can see progress)
+   
+4. If a conflict emerges, work with your team to resolve the conflict to avoid losing important code
+
+5. Be patient with yourself and others — collaborative coding is challenging but worth it!
+
 
 
 # **Teams**
