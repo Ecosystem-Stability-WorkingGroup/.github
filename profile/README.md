@@ -17,7 +17,9 @@ The Ecosystem Stability Working Group is an oganization on GitHub managed by the
 # **How to Collaborate**
 
 Step 1: Create a GitHub personal account (https://github.com/)
+
 Step 2: Request access to the working group organization (email: dudney@ucsb.edu or any PI)
+
 Step 3: If your subgroup is working within a team, also request team access
 
 
